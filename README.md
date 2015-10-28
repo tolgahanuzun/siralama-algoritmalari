@@ -23,5 +23,4 @@ Algoritmik karmaşıklığı O(n<sup>2</sup>) olarak tanımlanır.
 Eğer sıralı bir veri kümesi varsa hızlı çalışacaktır. 
 Ancak ters sırada bir veri kümesi varsa, oldukça yavaş işlem yapacaktır.
 
-Çalışma prensibi:
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif">	
