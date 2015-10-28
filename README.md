@@ -1,6 +1,6 @@
 # Siralama Algoritmalari / Sorting Algorithm
 
-<h1> Tr --> Siralama Algoritmalari </h1>
+<h2> Tr --> Siralama Algoritmalari </h2>
 
 Çeşitli Sıralama algoritmalarının C/C++ dilinde çalışır halde kodlarını burada paylaşacağım.
 
@@ -17,3 +17,5 @@
 </ul>
 
 
+<h3>Bubble Sgort</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif">	
