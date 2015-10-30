@@ -20,4 +20,21 @@ void bubbleSort(int dizi[], int elemanSayisi)
     }
 }
 
+void selection_sort(int dizi[], int elemanSayisi)
+{
+   int   i, j, temp, min;
+ 
+   for (i = 0; i < elemanSayisi - 1; i++) {
+      min = i;
+      for (j = i + 1; j < elemanSayisi; j++)
+         if (dizi[min] > dizi[j])
+            min = j;
+      temp = dizi[min];
+      dizi[min] = dizi[i];
+      dizi[i] = temp;
+   }
+}
+
+
+
 #endif
