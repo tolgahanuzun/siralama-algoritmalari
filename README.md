@@ -24,3 +24,13 @@ Eğer sıralı bir veri kümesi varsa hızlı çalışacaktır.
 Ancak ters sırada bir veri kümesi varsa, oldukça yavaş işlem yapacaktır.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif">	
+
+
+<h3>Selection Short</h3>
+Bu algoritma'da ilk elemana en küçük sayı yerleştirmesi için tüm dizi taranır.
+Bulunan en küçük sayı 1. sıraya konur ve 2. sıraya işaret geçer, iterasyon devam eder.
+Algoritmik karmaşıklığı O(n<sup>2</sup>) olarak tanımlanır.
+Eğer sıralı bir veri kümesi varsa hızlı çalışacaktır. 
+Random veriler varsa yavaş çalışacaktır..
+
+<img src="http://occcwiki.org/images/f/fb/SelectionSort.gif">	
