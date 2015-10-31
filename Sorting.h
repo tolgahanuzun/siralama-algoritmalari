@@ -1,7 +1,7 @@
 #ifndef _SORTİNG_
 #define _SORTİNG_
 
-void bubbleSort(int dizi[], int elemanSayisi)
+void bubble_sort(int dizi[], int elemanSayisi)
 {
     int temp;
     int i, j;
@@ -36,6 +36,18 @@ void selection_sort(int dizi[], int elemanSayisi)
    }
 }
 
+void insertion_sort (int dizi[], int elemanSayisi) {
+    int i, j, temp;
+    
+    for (i = 1; i < elemanSayisi; i++) {
+        temp = dizi[i];
+
+        for (j = i; j > 0 && temp < dizi[j - 1]; j--) {    
+            dizi[j] = dizi[j - 1];
+        }
+        dizi[j] = temp;
+    }
+}
 
 
 #endif
