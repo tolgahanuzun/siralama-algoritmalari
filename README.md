@@ -34,3 +34,10 @@ Eğer sıralı bir veri kümesi varsa hızlı çalışacaktır.
 Random veriler varsa yavaş çalışacaktır..
 
 <img src="http://occcwiki.org/images/f/fb/SelectionSort.gif">	
+
+<h3>İnsertion Short</h3>
+Bu algoritma Booble short algoritmasının iyeliştirilmiş şekli olarak yorumlayabiliriz.
+Algoritma hakkında daha fazla bilgi ve örneğe ulaşmak için <a href="http://goo.gl/hn7ACg">link</a>'e tıklayın. 
+Algoritmik karmaşıklığı O(n<sup>2</sup>) olarak tanımlanır.
+
+<img src="http://www.serefakyuz.com/images/insertion_sort_001.png">	
