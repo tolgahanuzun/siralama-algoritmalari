@@ -1,6 +1,6 @@
-# Siralama Algoritmalari / Sorting Algorithm
+﻿# Siralama Algoritmalari / Sorting Algorithm
 
-<h2> Tr --> Siralama Algoritmalari </h2>
+<h2> Türkçe --> Siralama Algoritmalari </h2>
 
 Çeşitli Sıralama algoritmalarının C/C++ dilinde çalışır halde kodlarını burada paylaşacağım.
 
